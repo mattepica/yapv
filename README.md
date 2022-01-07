@@ -4,18 +4,6 @@ Simple WP-plugin PDF.js implementation.
 
 
 
----
-
-
-
-![ex](img/example.png)
-
-
-
----
-
-
-
 ### Used:
 
 ###### Libraries:
